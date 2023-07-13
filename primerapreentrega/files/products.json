@@ -1,0 +1,118 @@
+[
+    {
+      "id": 1,
+      "title": "Facundo",
+      "description": "Ensayo histórico",
+      "price": 10000,
+      "thumbnail": "url",
+      "code": "abc123",
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "title": "Sistema Económico y Rentístico",
+      "description": "Tratado de economía política",
+      "price": 8000,
+      "thumbnail": "url",
+      "code": "abc124",
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "title": "Oppenheimer",
+      "description": "Biografía",
+      "price": 6000,
+      "thumbnail": "url",
+      "code": "abc125",
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "title": "Tras la Virtud",
+      "description": "Libro de filosofía moral",
+      "price": 7000,
+      "thumbnail": "url",
+      "code": "abc126",
+      "stock": 20,
+      "status": true,
+      "category": "Ética"
+    },
+    {
+      "id": 6,
+      "title": "La Acción Humana",
+      "description": "Tratado de economía",
+      "price": 8000,
+      "thumbnail": "url",
+      "code": "abc127",
+      "stock": 500
+    },
+    {
+      "id": 7,
+      "title": "El Retrato de Dorian Gray",
+      "description": "Novela",
+      "price": 5000,
+      "thumbnail": "url",
+      "code": "abc128",
+      "stock": 100
+    },
+    {
+      "id": 8,
+      "title": "Historia de la filosofía - vol. 1",
+      "description": "Historia de la filosofía",
+      "price": 8500,
+      "thumbnail": "url",
+      "code": "abc129",
+      "stock": 60
+    },
+    {
+      "id": 9,
+      "title": "La conjura de los necios",
+      "description": "Novela",
+      "price": 7000,
+      "thumbnail": "url",
+      "code": "abc131",
+      "stock": 100
+    },
+    {
+      "id": 10,
+      "title": "Crítica de la razón práctica",
+      "description": "Libro de filosofía",
+      "price": 9000,
+      "thumbnail": "url",
+      "code": "abc132",
+      "stock": 15
+    },
+    {
+      "id": 11,
+      "title": "El Aleph",
+      "description": "Libro de cuentos",
+      "price": 5500,
+      "thumbnail": "url",
+      "category": "Ficción",
+      "status": true,
+      "code": "abc133",
+      "stock": 90
+    },
+    {
+      "id": 12,
+      "title": "Ficciones",
+      "description": "Libro de cuentos",
+      "price": 6000,
+      "thumbnail": "url",
+      "category": "Ficción",
+      "status": true,
+      "code": "abc134",
+      "stock": 100
+    },
+    {
+      "id": 13,
+      "title": "El nombre de la rosa",
+      "description": "Novela histórica",
+      "price": 5000,
+      "thumbnail": "url",
+      "category": "Ficción",
+      "status": true,
+      "code": "abc135",
+      "stock": 80
+    }
+  ]
